@@ -44,3 +44,8 @@ Several YouTube tutorials helped me understand API integration with Python, espe
 OpenWeatherMap API
 Special thanks to OpenWeatherMap for offering free access to a robust and easy-to-use weather data API. Their clear documentation made it simple to construct proper API requests and extract the required data.
 
+
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e461071d-7075-4188-9062-6f2a4960f230" />
+
