@@ -46,5 +46,4 @@ plt.xticks(rotation=45)
 # Show Plot
 plt.tight_layout()
 plt.suptitle(f"5-Day Weather Dashboard for {CITY}", fontsize=16, y=1.02)
-plt.savefig("weather_dashboard.png")
 plt.show()
